@@ -11,7 +11,7 @@ if print(type(Año/4))=<class 'int'>:
 
 if print(type(Año/100))=<class 'int'>:
 	
-	i=i+1
+	i=i+5
 
 if print(type(Año/400))=<class 'int'>:
 
