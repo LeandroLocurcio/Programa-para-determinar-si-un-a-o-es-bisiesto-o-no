@@ -6,13 +6,15 @@ print(type(Año))
 
 i=1
 
-if type(Año/4)=int:
+if print(type(Año/4))=<class 'int'>:
 	i==i+1
 
-if type(Año/100)=int:	
+if print(type(Año/100))=<class 'int'>:
+	
 	i=i+1
 
-if type(Año/400)=int:
+if print(type(Año/400))=<class 'int'>:
+
     i=i+1	
 
 if i==1 or i==3:
